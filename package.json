@@ -1,0 +1,21 @@
+{
+  "name": "@example/minimal",
+  "type": "module",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "astro": "astro",
+    "build": "astro build",
+    "dev": "astro dev",
+    "preview": "astro preview",
+    "start": "astro dev"
+  },
+  "dependencies": {
+    "@astrojs/preact": "^3.3.0",
+    "@astrojs/rss": "^3.0.0",
+    "astro": "^4.8.6",
+    "astro-sst": "2.41.5",
+    "preact": "^10.11.3",
+    "sst": "ion"
+  }
+}
